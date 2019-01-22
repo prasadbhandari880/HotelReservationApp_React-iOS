@@ -3,7 +3,7 @@ Hotel Booking with Reservation List Using React, React Native and GraphQl
 ## Graphql Apollo Server API hosted on heroku.
 #Backend
 
-Api Cretaed with graphQl Hosted on Herkou Server
+Api Created with graphQl Hosted on Herkou Server
 
 Base Url: https://api-gql.herokuapp.com/graphql
 
